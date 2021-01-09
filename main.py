@@ -102,7 +102,7 @@ if __name__=="__main__" :
             speak(results)
 
         # Open Application(s)
-        elif 'FILE NAME' in query:
+        elif 'open FILE NAME' in query:
             os.startfile(r"FILE PATH")
             speak(results)
         # Tell the time
