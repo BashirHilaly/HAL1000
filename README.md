@@ -1,3 +1,9 @@
+<h6 align="center">بسم الله الرحمن الرحيم
+<br>In the name of Allah, Most Gracious, Most Merciful
+</h6>
+
+---
+
 # HAL1000
  Python Virtual Assistant with voice recognition and ability to open applications, search wikipedia, and participate in conversation courtesy of [Replika.ai](https://replika.ai/)
  
